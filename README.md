@@ -12,6 +12,14 @@ Materialgram — a modified Telegram client with a full redesign in Material You
 
 🚩 The final version will be different 🚩
 
+
+## Tech Stack
+**Language**: Kotlin
+**UI**: Jetpack Compose
+**Design System**: Material 3 Expressive
+**Min SDK**: Android 8.0+ (API 26)
+
+
 # About development
 Unfortunately, I work alone and can't release updates quickly. That's one problem, and the second is that I'm not very familiar with Kotlin programming, so I'm learning as I go along, writing the Telegram client. Third, this is my first project of this kind, but I hope it won't be my last.
 
