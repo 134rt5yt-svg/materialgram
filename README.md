@@ -2,13 +2,12 @@
 
 📢 This project is currently under development 📢
 
-<img width="100" height="100" alt="Group 2" src="https://github.com/user-attachments/assets/40df1703-a58d-4ecc-9c42-4825df405914" />
 
 Materialgram — a modified Telegram client with a full redesign in Material You 3 Expressive style (by Google). Modern interface, dynamic colors, smooth animations, updated navigation, and improved user experience. Only UI design has been changed; Telegram functionality remains unchanged.
 
 
 # Materialgram concepts
-<img width="522" height="364" alt="githubc" src="https://github.com/user-attachments/assets/12ee5ffc-4a64-4a93-b7fb-94f9168ec37d" />
+soon
 
 🚩 The final version will be different 🚩
 
